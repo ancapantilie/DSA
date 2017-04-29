@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1492626268 source:c:\users\lenovo\desktop\dsahw2\doubly-linked-circular-list.cpp
+	"doubly-linked-circular-list.h"
+
+1492635859 c:\users\lenovo\desktop\dsahw2\doubly-linked-circular-list.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1492803720 source:c:\users\lenovo\desktop\dsahw2\main.cpp
+	"doubly-linked-linear-list.h"
+	<iostream>
+	<math.h>
+
+1492803746 c:\users\lenovo\desktop\dsahw2\doubly-linked-linear-list.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
